@@ -2,7 +2,7 @@ Laravel Admin
 A comprehensive admin panel package for Laravel applications.
 Installation
 You can install the package via composer:
-bashCopycomposer require your-vendor/laravel-admin
+bashCopycomposer require syntorit/laravel-admin
 This package requires the following dependencies:
 
 intervention/image (2.7)

@@ -1,5 +1,5 @@
 {
-    "name": "your-vendor/laravel-admin",
+    "name": "syntorit/laravel-admin",
     "description": "Laravel admin panel package",
     "type": "library",
     "license": "MIT",
