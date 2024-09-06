@@ -28,13 +28,13 @@
     },
     "autoload": {
         "psr-4": {
-            "Syntorit\\LaravelAdmin\\": "src/"
+            "LaravelAdmin\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Syntorit\\LaravelAdmin\\Providers\\LaravelAdminServiceProvider"
+                "LaravelAdmin\\Providers\\LaravelAdminServiceProvider"
             ]
         }
     },
