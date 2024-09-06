@@ -1,6 +1,6 @@
 <?php
 
-namespace syntorit\LaravelAdmin\Providers;
+namespace Syntorit\LaravelAdmin\Providers;
 
 use Illuminate\Support\ServiceProvider;
 use Laratrust\LaratrustServiceProvider;
